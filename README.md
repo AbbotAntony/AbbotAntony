@@ -1,6 +1,6 @@
 ## Hi, I'm Abbot Antony 👋
 
-I'm an Data Analyst and Assistant Lecturer in the Department of Agricultural Economics and Business at the **University of Dar es Salaam**, Tanzania.
+I'm Data Analyst and Assistant Lecturer in the Department of Agricultural Economics and Business at the **University of Dar es Salaam**, Tanzania.
 I work at the meeting point of economics and spatial data science, turning messy official statistics, satellite imagery and survey data into evidence for Climate, Energy, Environmental and Agricultural Policy.
 
 ### Research areas
